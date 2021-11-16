@@ -16,6 +16,17 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+### Release History
+#### v0.0.0 (16/02/2021)
+##### Initialization:
+- [#1] Added basic designs of all planned HTML pages
+- [#2] Tested all pages(e.g. : PUT , GET , UPDATE , REMOVE )
+- 
+#### v0.1.1 (01/03/2021)
+##### Enhancements:
+- [#5] Added a README.md file
+- [#6] Few changes
+
 ### Some features of JsonPowerDB are:
 
 * Nimble, simple to use, in memory, real time
@@ -37,6 +48,7 @@
 * Real time application for data analytics.
 * Live working HTML templates.
 * Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)
+
 
 ### Screenshots:
 ![Screenshot 2021-11-16 at 6 45 22 PM](https://user-images.githubusercontent.com/92925844/141992074-71285f46-ecdd-46e7-a7f1-4ef0995cd5eb.png)
