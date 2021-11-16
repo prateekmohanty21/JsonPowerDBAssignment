@@ -21,7 +21,7 @@
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
 - [#2] Tested all pages(e.g. : PUT , GET , UPDATE , REMOVE )
-- 
+
 #### v0.1.1 (01/03/2021)
 ##### Enhancements:
 - [#5] Added a README.md file
