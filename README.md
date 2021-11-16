@@ -16,6 +16,28 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+### Some features of JsonPowerDB are:
+
+* Nimble, simple to use, in memory, real time
+* Schema free - easy to maintain
+* Serverless support - fast development - cuts time to market
+* Built around the world's fastest indexing engine PowerIndex
+* Webservices API - Low Dev Cost
+* Multiple Security Layers
+* A single instance - Million Indexes
+* Inbuilt support for querying multiple databases
+* Serverside Native NoSQL - best performance
+* Multi-mode database - One solution to a variety of data
+
+### Use cases:
+* All RDMS use cases.
+* All key-value use cases.
+* All document use cases.
+* Time series/geospatial analytics.
+* Real time application for data analytics.
+* Live working HTML templates.
+* Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)
+
 ### Screenshots:
 ![Screenshot 2021-11-16 at 6 45 22 PM](https://user-images.githubusercontent.com/92925844/141992074-71285f46-ecdd-46e7-a7f1-4ef0995cd5eb.png)
 ![Screenshot 2021-11-16 at 6 45 37 PM](https://user-images.githubusercontent.com/92925844/141992100-b5235cb7-beae-4712-8685-41a68e49f2fc.png)
