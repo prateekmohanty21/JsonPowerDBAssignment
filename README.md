@@ -17,15 +17,16 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Release History
-#### v0.0.0 (16/02/2021)
+#### v0.0.0 (16/11/2021)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
 - [#2] Tested all pages(e.g. : PUT , GET , UPDATE , REMOVE )
 
-#### v0.1.1 (01/03/2021)
+#### v0.1.1 (17/11/2021)
 ##### Enhancements:
-- [#5] Added a README.md file
-- [#6] Few changes
+- [#3] Added a README.md file
+- [#4] Added my HTML file 
+- [#5] Few changes
 
 ### Some features of JsonPowerDB are:
 
